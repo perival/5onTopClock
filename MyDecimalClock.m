@@ -66,9 +66,7 @@
                                currentContext] graphicsPort];
 
     // transform to move origin point to center point of view
-    NSAffineTransform* xform = [NSAffineTransform transform];
-    [xform translateXBy:100.0 yBy:100.0];
-    [xform concat];
+    CGContextTranslateCTM (myContext, 100, 100);
     
     // ********** Drawing the hour hand ********** //
     CGContextSaveGState(myContext);

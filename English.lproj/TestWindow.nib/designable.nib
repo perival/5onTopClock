@@ -222,10 +222,10 @@
 										<int key="NSCellFlags">67108864</int>
 										<int key="NSCellFlags2">138412032</int>
 										<string key="NSContents">2</string>
-										<object class="NSFont" key="NSSupport" id="26">
-											<string key="NSName">LucidaGrande</string>
-											<double key="NSSize">11</double>
-											<int key="NSfFlags">3100</int>
+										<object class="NSFont" key="NSSupport" id="712288525">
+											<string key="NSName">Helvetica</string>
+											<double key="NSSize">13</double>
+											<int key="NSfFlags">16</int>
 										</object>
 										<reference key="NSControlView" ref="464191818"/>
 										<reference key="NSBackgroundColor" ref="418689027"/>
@@ -245,7 +245,7 @@
 										<int key="NSCellFlags">67108864</int>
 										<int key="NSCellFlags2">138412032</int>
 										<string key="NSContents">3</string>
-										<reference key="NSSupport" ref="26"/>
+										<reference key="NSSupport" ref="712288525"/>
 										<reference key="NSControlView" ref="345187020"/>
 										<reference key="NSBackgroundColor" ref="418689027"/>
 										<reference key="NSTextColor" ref="630164964"/>
@@ -264,7 +264,7 @@
 										<int key="NSCellFlags">67108864</int>
 										<int key="NSCellFlags2">138412032</int>
 										<string key="NSContents">1</string>
-										<reference key="NSSupport" ref="26"/>
+										<reference key="NSSupport" ref="712288525"/>
 										<reference key="NSControlView" ref="234035139"/>
 										<reference key="NSBackgroundColor" ref="418689027"/>
 										<reference key="NSTextColor" ref="630164964"/>
@@ -283,7 +283,7 @@
 										<int key="NSCellFlags">67108864</int>
 										<int key="NSCellFlags2">138412032</int>
 										<string key="NSContents">4</string>
-										<reference key="NSSupport" ref="26"/>
+										<reference key="NSSupport" ref="712288525"/>
 										<reference key="NSControlView" ref="115007118"/>
 										<reference key="NSBackgroundColor" ref="418689027"/>
 										<reference key="NSTextColor" ref="630164964"/>
@@ -302,7 +302,7 @@
 										<int key="NSCellFlags">67108864</int>
 										<int key="NSCellFlags2">138412032</int>
 										<string key="NSContents">8</string>
-										<reference key="NSSupport" ref="26"/>
+										<reference key="NSSupport" ref="712288525"/>
 										<reference key="NSControlView" ref="1052283331"/>
 										<reference key="NSBackgroundColor" ref="418689027"/>
 										<reference key="NSTextColor" ref="630164964"/>
@@ -321,7 +321,7 @@
 										<int key="NSCellFlags">67108864</int>
 										<int key="NSCellFlags2">138412032</int>
 										<string key="NSContents">7</string>
-										<reference key="NSSupport" ref="26"/>
+										<reference key="NSSupport" ref="712288525"/>
 										<reference key="NSControlView" ref="596231069"/>
 										<reference key="NSBackgroundColor" ref="418689027"/>
 										<reference key="NSTextColor" ref="630164964"/>
@@ -340,7 +340,7 @@
 										<int key="NSCellFlags">67108864</int>
 										<int key="NSCellFlags2">138412032</int>
 										<string key="NSContents">9</string>
-										<reference key="NSSupport" ref="26"/>
+										<reference key="NSSupport" ref="712288525"/>
 										<reference key="NSControlView" ref="1015124458"/>
 										<reference key="NSBackgroundColor" ref="418689027"/>
 										<reference key="NSTextColor" ref="630164964"/>
@@ -359,7 +359,7 @@
 										<int key="NSCellFlags">67108864</int>
 										<int key="NSCellFlags2">138412032</int>
 										<string key="NSContents">6</string>
-										<reference key="NSSupport" ref="26"/>
+										<reference key="NSSupport" ref="712288525"/>
 										<reference key="NSControlView" ref="703842668"/>
 										<reference key="NSBackgroundColor" ref="418689027"/>
 										<reference key="NSTextColor" ref="630164964"/>
@@ -369,7 +369,7 @@
 								<object class="NSTextField" id="482977020">
 									<reference key="NSNextResponder" ref="541410894"/>
 									<int key="NSvFlags">256</int>
-									<string key="NSFrame">{{87, 2}, {27, 14}}</string>
+									<string key="NSFrame">{{87, 3}, {27, 14}}</string>
 									<reference key="NSSuperview" ref="541410894"/>
 									<reference key="NSWindow"/>
 									<reference key="NSNextKeyView" ref="40962120"/>
@@ -378,7 +378,7 @@
 										<int key="NSCellFlags">67108864</int>
 										<int key="NSCellFlags2">138412032</int>
 										<string key="NSContents">0</string>
-										<reference key="NSSupport" ref="26"/>
+										<reference key="NSSupport" ref="712288525"/>
 										<reference key="NSControlView" ref="482977020"/>
 										<reference key="NSBackgroundColor" ref="418689027"/>
 										<reference key="NSTextColor" ref="630164964"/>
@@ -388,7 +388,7 @@
 								<object class="NSTextField" id="952210885">
 									<reference key="NSNextResponder" ref="541410894"/>
 									<int key="NSvFlags">256</int>
-									<string key="NSFrame">{{85.5, 184}, {30, 16}}</string>
+									<string key="NSFrame">{{78.5, 145}, {43, 64}}</string>
 									<reference key="NSSuperview" ref="541410894"/>
 									<reference key="NSWindow"/>
 									<reference key="NSNextKeyView" ref="703842668"/>
@@ -398,8 +398,8 @@
 										<int key="NSCellFlags2">138412032</int>
 										<string key="NSContents">5</string>
 										<object class="NSFont" key="NSSupport">
-											<string key="NSName">LucidaGrande</string>
-											<double key="NSSize">15</double>
+											<string key="NSName">Helvetica</string>
+											<double key="NSSize">40</double>
 											<int key="NSfFlags">16</int>
 										</object>
 										<reference key="NSControlView" ref="952210885"/>
